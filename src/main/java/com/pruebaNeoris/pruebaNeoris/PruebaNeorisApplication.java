@@ -5,6 +5,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class PruebaNeorisApplication {
+	
+	String prueba = "";
 
 	public static void main(String[] args) {
 		SpringApplication.run(PruebaNeorisApplication.class, args);
